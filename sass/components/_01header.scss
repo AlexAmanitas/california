@@ -1,0 +1,48 @@
+.header {
+	height: 80px;
+	display: flex;
+	align-items: center;
+}
+.logo {
+}
+.header__nav {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	// margin-left: 285px;
+}
+.header__item {
+	padding: 31px 0 32px;
+
+	font-family: "Inter";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 17px;
+	text-transform: uppercase;
+
+	color: #000000;
+
+	&:not(:last-child) {
+		margin-right: 33px;
+	}
+	&:last-child {
+		margin-left: 11px;
+	}
+}
+
+.header__icon {
+	margin-left: 3px;
+}
+
+.header__icon--wrap {
+	display: flex;
+	margin-left: auto;
+	padding: 8px 20px;
+}
+
+.searh {
+}
+.basket {
+	margin-left: 13px;
+}

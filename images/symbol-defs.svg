@@ -1,0 +1,25 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-arrow" viewBox="0 0 34 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="3.4286" d="M8.36 23.408l16.72-15.606M8.36 7.802h16.72v15.606"></path>
+</symbol>
+<symbol id="icon-basket" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M12 29.333c0.736 0 1.333-0.597 1.333-1.333s-0.597-1.333-1.333-1.333v0c-0.736 0-1.333 0.597-1.333 1.333s0.597 1.333 1.333 1.333v0zM26.667 29.333c0.736 0 1.333-0.597 1.333-1.333s-0.597-1.333-1.333-1.333v0c-0.736 0-1.333 0.597-1.333 1.333s0.597 1.333 1.333 1.333v0zM1.333 1.333h5.333l3.573 17.853c0.251 1.233 1.327 2.147 2.616 2.147 0.018 0 0.036-0 0.054-0.001l-0.003 0h12.96c0.015 0 0.033 0 0.051 0 1.289 0 2.364-0.914 2.613-2.13l0.003-0.017 2.133-11.187h-22.667"></path>
+</symbol>
+<symbol id="icon-search-bottom" viewBox="0 0 33 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.2069" d="M15.172 25.333c6.094 0 11.034-4.776 11.034-10.666 0-5.892-4.94-10.667-11.034-10.667s-11.034 4.776-11.034 10.667c0 5.89 4.94 10.666 11.034 10.666zM28.966 28l-6.001-5.8"></path>
+</symbol>
+<symbol id="icon-searc-icon" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M14.667 25.333c5.891 0 10.667-4.776 10.667-10.667s-4.776-10.667-10.667-10.667v0c-5.891 0-10.667 4.776-10.667 10.667s4.776 10.667 10.667 10.667v0zM28 28l-5.8-5.8"></path>
+</symbol>
+<symbol id="icon-v-gal" viewBox="0 0 48 32">
+<path fill="none" stroke="#070847" style="stroke: var(--color1, #070847)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="6" d="M44 4l-20 20-20-20"></path>
+</symbol>
+<symbol id="icon-v-vert-left" viewBox="0 0 17 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.4615" d="M16 30.769l-14.769-14.769 14.769-14.769"></path>
+</symbol>
+<symbol id="icon-v-vert-right" viewBox="0 0 17 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.4615" d="M1.231 1.231l14.769 14.769-14.769 14.769"></path>
+</symbol>
+</defs>
+</svg>

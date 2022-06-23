@@ -1,0 +1,43 @@
+h1,
+h2,
+h3,
+p,
+ul,
+li,
+pre {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	font-family: "Readex Pro", sans-serif;
+	margin-left: auto;
+}
+
+.container {
+	max-width: 1440px;
+	padding: 1px 73px;
+}
+
+button {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+}
+
+.section {
+	padding: 27px 0;
+}

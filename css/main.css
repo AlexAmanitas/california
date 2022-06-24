@@ -457,6 +457,10 @@ button {
   text-align: center;
 }
 
+.section.else {
+  padding-bottom: 18px;
+}
+
 .else__search-input {
   display: block;
   width: 650px;
